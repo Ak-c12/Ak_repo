@@ -9,7 +9,16 @@ int main(){
     for(int i=1;i<=n; i++){
         sum+=i;
     }
-    
+    // using break keyword..
+    int n=20;
+    int sum =0;
+    for(int i=1;i<=n; i++){
+        sum+=i;
+        if(i==5){
+            break;
+        }
+    }
+     
     
     // using while loop..
     int n,i=1,sum=0;
