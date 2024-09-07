@@ -6,11 +6,11 @@ int main(){
     cin>>n;
 
     //program for printing no. serial wise
-    /*int i=1;
+    int i=1;
     while(i<=n){
         cout<<i<<" ";
         i=i+1;
-    }*/
+    }
     
     //program for printing the sum of numbers
     int i=1;
