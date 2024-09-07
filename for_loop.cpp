@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
+    // for loop..
     int n;
     cout<<"Enter the value of n:";
     cin>>n;
@@ -10,7 +11,7 @@ int main(){
     }
     
     
-    // using for while loop
+    // using while loop..
     int n,i=1,sum=0;
     cout<<"Enter the value of n:";
     cin>>n;
