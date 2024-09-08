@@ -10,7 +10,7 @@ int main(){
     cin>>age;
     cout<<"Your age is ="<<age<<endl;
 
-    // WAP for addition of two numbers
+    // WAP for addition of two numbers..
     
     int a,b;
     cout<<"Enter a:";
@@ -20,7 +20,7 @@ int main(){
     int sum = a+b;
     cout<<"Sum is = "<< sum << endl;
     
-    // program to show given num is even or odd
+    // program to show given num is even or odd..
 
     int n;
     cout<<"Enter Number:";
