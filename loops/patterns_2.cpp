@@ -32,7 +32,7 @@ int main(){
         cout<<endl;
     }
 
-    // Another pattern.. 
+    // Another pattern for numbers in continous manner
     for(int i=0; i<n; i++){
         for(int j=0; j<n; j++){
             cout<<num<<" ";
@@ -41,7 +41,7 @@ int main(){
         cout<<endl;
     }
 
-    // Pattern no. 5
+    // Pattern for Char in continous manner
     for(int i=1; i<=n; i++){ //outer 
         for(int j=1; j<=n; j++){ //inner start => line start
             cout<<ch<<" ";
