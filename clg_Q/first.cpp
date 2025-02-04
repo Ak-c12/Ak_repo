@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
 
-double power(double num,int pr=2){
+double power(double n,int pr=2){
     double a;
     a=1;
     for(int i=1; i<=pr; i++)
-    a*=num;
+    a*=n;
     return a;
 }
 int main(){
